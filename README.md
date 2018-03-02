@@ -25,7 +25,7 @@ Implementation
 ------------------------------------------------------------------
 The source folder contains
 ```
-ooyala
+root
  |-- src
  |    |-- main
  |    |    |-- java
